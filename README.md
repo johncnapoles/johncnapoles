@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**johncnapoles/johncnapoles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Who is Christian?**
 
-Here are some ideas to get you started:
+- Backend Software Engineer based in London
+- 5 years of experience in the Financial Technology industry startups
+- Mainly coding in Python and TypeScript, using AWS
+- Continuously learning new technologies, being mindful to use the right tool for the job
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Fun Facts:**
+
+- I like to unwind by playing volleyball or playing music
+- I create short films or music covers when the inspiration strikes me
+- I'm currently working on my personal website to house all my creative projects and brush up on full-stack coding
+
+**Useful Links for recruiters**
+
+- [LinkedIn](https://www.linkedin.com/in/johncnapoles/)
+- [HackerRank](https://www.hackerrank.com/profile/johncnapoles)
+- [LeetCode](https://leetcode.com/johncnapoles/)
