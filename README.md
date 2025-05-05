@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 😁!
 
 **Who is Christian?**
 
@@ -13,8 +13,9 @@
 - I create short films or music covers when inspiration strikes me
 - I am currently working on my personal website to house all my creative projects and brush up on full-stack coding. Coming Soon :)
 
-**Useful links for recruiters**
+**Useful links for recruiters:**
 
 - [LinkedIn](https://www.linkedin.com/in/johncnapoles/)
 - [HackerRank](https://www.hackerrank.com/profile/johncnapoles)
 - [LeetCode](https://leetcode.com/johncnapoles/)
+- [Roadmap.sh](https://roadmap.sh/u/johncnapoles)
